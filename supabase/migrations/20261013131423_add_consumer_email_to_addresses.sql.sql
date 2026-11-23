@@ -1,0 +1,1 @@
+ALTER TABLE addresses ADD COLUMN IF NOT EXISTS consumer_email text DEFAULT '';
